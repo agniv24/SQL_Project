@@ -1,2 +1,2 @@
-# SQL prompt for Sales Analysis
-Conducted a deep dive into ADIDAS sales data, unraveling patterns, anomalies, and trends through SQL. Uncovering the underlying dynamics of sales performance. 
+# Portfolio Performance Analysis & Business Insights | SQL for Finance 
+Performed portfolio analysis using SQL to extract key financial insights from investment data. Calculated metrics like ROI, CAGR, and risk exposure, analyzed asset allocation and tracked performance trends. Used advanced SQL queries to support data-driven investment decisions and portfolio optimization. 
